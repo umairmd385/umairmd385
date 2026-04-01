@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+SRE;Cloud-Native+Builder;Creator+of+Docker+Secret+Operator+(DSO);AWS+%7C+Kubernetes+%7C+Go+%7C+Security" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=umairmd385)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umairmd385&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/umairmd385?label=Followers&style=flat" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Md Umair</h1>
 <h3 align="center">🚀 DevOps Engineer | SRE | Cloud-Native Builder</h3>
