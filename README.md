@@ -1,5 +1,6 @@
+```md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+SRE;Cloud-Native+Builder;Creator+of+Docker+Secret+Operator+(DSO);AWS+%7C+Kubernetes+%7C+Go+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+SRE;Cloud-Native+Builder;Creator+of+Docker+Secret+Operator;AWS+%7C+Kubernetes+%7C+Go+%7C+Security" />
 </p>
 
 <p align="center">
@@ -7,127 +8,137 @@
   <img src="https://img.shields.io/github/followers/umairmd385?label=Followers&style=flat" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Umair</h1>
-<h3 align="center">🚀 DevOps Engineer | SRE | Cloud-Native Builder</h3>
+<h1 align="center">
+Hi there 👋, I'm Md Umair
+</h1>
+
+<h3 align="center">
+🚀 DevOps Engineer • SRE • Cloud-Native Builder
+</h3>
 
 <p align="center">
-  <a href="https://dso.skycloudops.in/">
-    <img src="https://img.shields.io/badge/🚀-DSO Live-blue?style=for-the-badge">
+  <a href="https://github.com/docker-secret-operator/dso">
+    <img src="https://img.shields.io/badge/⭐-Docker_Secret_Operator-blue?style=for-the-badge">
   </a>
+
   <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-success?style=for-the-badge">
 </p>
 
 ---
 
-## 🔥 About Me
+# 👨‍💻 About Me
 
-- 🚀 DevOps Engineer with **3+ years experience** in cloud & platform engineering  
-- ☁️ Built scalable infrastructure across **AWS, Azure & Huawei Cloud**  
-- ⚡ Reduced cloud costs by **40%** & improved deployment speed by **2x**  
-- 🔐 Strong focus on **security, automation & reliability (SRE practices)**  
-- 📈 Managing production systems with **99.9%+ uptime**  
-
----
-
-## 🔐 Featured Project
-
-### 🚀 Docker Secret Operator (DSO)
-
-> A cloud-native secret management system for Docker environments
-
-✨ **Why I built this**
-- Docker lacks dynamic & secure secret management
-- Teams struggle with secret injection & rotation
-
-⚡ **What DSO solves**
-- Secure secret injection at runtime  
-- Multi-provider support (AWS, Vault, etc.)  
-- Label-driven configuration  
-- Zero-trust aligned access  
-
-👉 **Live Demo:** https://dso.skycloudops.in/  
-👉 **GitHub Repo:** https://github.com/umairmd385/docker-secret-operator  
+- 🚀 DevOps Engineer with 3+ years of experience
+- ☁️ Working across AWS, Azure and Huawei Cloud
+- ☸️ Passionate about Kubernetes, Platform Engineering and SRE
+- 🔐 Strong focus on Security, Reliability and Automation
+- 🌱 Building cloud-native and open-source tools
+- 💬 Ask me about Docker, Kubernetes, AWS, Go and CI/CD
 
 ---
 
-## ⚡ Real Impact
+# 🚀 Featured Project
 
-- 🚀 CI/CD pipelines → **2x faster deployments**  
-- 💰 Reduced AWS cost by **40% (~$1k/month)**  
-- ⚙️ Automated **50+ tasks**, saving 40+ hrs/month  
-- 📦 Containerized **10+ applications**  
-- ☸️ Managed Kubernetes (EKS, AKS & on-prem)  
+## Docker Secret Operator (DSO)
 
----
+A Docker-native secret management platform for secure runtime secret injection.
 
-## 🏗️ Projects
+### ✨ Features
 
-### 💹 Crypto Exchange Platform
-- 20+ microservices on AWS EKS  
-- GitOps with ArgoCD + Helm  
-- Istio service mesh with mTLS  
-- Kafka (1000+ req/sec)  
+- 🔐 Runtime secret injection
+- 🔄 Secret rotation
+- ☁️ Multi-provider support
+- 🛡️ Zero-trust architecture
+- ⚡ Zero-downtime updates
+- 🐳 Native Docker CLI experience
 
-### ⚡ High-Frequency Trading Platform
-- Web3 workloads on Huawei Cloud  
-- Kong API Gateway with custom plugins  
-- Secure secret sync  
+### 🌐 Links
 
-### 🧩 SaaS Multi-Tenant Platform
-- Terraform-based infra automation  
-- Setup time reduced **2 days → 30 mins**  
-- Dynamic tenant provisioning  
+- Website: https://dso.skycloudops.in/
+- Repository: https://github.com/docker-secret-operator/dso
 
 ---
 
-## ⚙️ Tech Stack
+# 🌍 Open Source
 
-**Cloud:** AWS, Azure, Huawei  
-**Containers:** Docker, Kubernetes, Helm, ArgoCD  
-**CI/CD:** Jenkins, GitHub Actions, GitLab CI  
-**Security:** Istio, RBAC, mTLS, Cloudflare  
-**Observability:** Prometheus, Grafana, Loki  
+- 🚀 Creator and maintainer of Docker Secret Operator (DSO)
+- ☸️ CNCF ecosystem enthusiast
+- 🐳 Passionate about Docker and Kubernetes
+- 🌱 Interested in Platform Engineering and Security
+- 🤝 Always open to collaborating on interesting projects
 
 ---
 
-## 📈 GitHub Stats
+# 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairmd385&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmd385&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,jenkins,githubactions,prometheus,grafana,go,python&perline=6" />
 </p>
 
 ---
 
-## 🧠 Current Focus
+# 🚀 Current Focus
 
-- 🔐 Building **DSO → Secret Management for Docker**  
-- ⚡ Advanced **SRE + Observability Systems**  
-- ☸️ Kubernetes Security  
-- 🚀 Cloud-native scaling  
-
----
-
-## 🤝 Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/mdumair250801  
-- 🌐 Portfolio: https://dso.skycloudops.in/  
-- 📧 Email: md.umair7335@gmail.com  
+- 🔐 Docker Secret Operator (DSO)
+- ☸️ Kubernetes Security
+- 📊 Observability & SRE
+- ⚡ Go-based Cloud Native Tools
+- 🌍 Platform Engineering
 
 ---
 
-## ⭐ Support
+# 📈 GitHub Statistics
 
-If you like my work:
+<p align="center">
 
-👉 Star my repos  
-👉 Follow me  
-👉 Share with others  
+<img src="https://github-readme-stats.vercel.app/api?username=umairmd385&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmd385&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairmd385&layout=compact&theme=radical" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=umairmd385&theme=radical&margin-w=15"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umairmd385&theme=react-dark"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mdumair250801">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="mailto:md.umair7335@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
+<a href="https://github.com/umairmd385">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-  🚀 Building real-world DevOps tools (not just tutorials)
+🚀 Building real-world cloud-native tools, not just tutorials.
 </p>
+```
