@@ -1,40 +1,33 @@
-```md
+```markdown
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+SRE;Cloud-Native+Builder;Creator+of+Docker+Secret+Operator;AWS+%7C+Kubernetes+%7C+Go+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+SRE;Cloud-Native+Builder;Creator+of+Docker+Secret+Operator;AWS+%7C+Kubernetes+%7C+Go+%7C+Security" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairmd385&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=umairmd385&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/umairmd385?label=Followers&style=flat" />
 </p>
 
-<h1 align="center">
-Hi there 👋, I'm Md Umair
-</h1>
+<h1 align="center">Hi 👋, I'm Md Umair</h1>
 
 <h3 align="center">
-🚀 DevOps Engineer • SRE • Cloud-Native Builder
+🚀 DevOps Engineer • SRE • Open Source Builder
 </h3>
 
 <p align="center">
-  <a href="https://github.com/docker-secret-operator/dso">
-    <img src="https://img.shields.io/badge/⭐-Docker_Secret_Operator-blue?style=for-the-badge">
-  </a>
-
-  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge">
+Passionate about Cloud Native, Platform Engineering, Security and Kubernetes.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 DevOps Engineer with 3+ years of experience
-- ☁️ Working across AWS, Azure and Huawei Cloud
-- ☸️ Passionate about Kubernetes, Platform Engineering and SRE
-- 🔐 Strong focus on Security, Reliability and Automation
-- 🌱 Building cloud-native and open-source tools
-- 💬 Ask me about Docker, Kubernetes, AWS, Go and CI/CD
+- ☁️ Working with AWS, Azure and Huawei Cloud
+- ☸️ Passionate about Kubernetes and Platform Engineering
+- 🔐 Strong interest in Security and Observability
+- 🌱 Building cloud-native tools with Go
+- 💬 Ask me about Docker, Kubernetes, AWS and CI/CD
+- 🤝 Always open to collaborating on interesting projects
 
 ---
 
@@ -44,41 +37,36 @@ Hi there 👋, I'm Md Umair
 
 A Docker-native secret management platform for secure runtime secret injection.
 
-### ✨ Features
+<p align="left">
+<a href="https://github.com/docker-secret-operator/dso">
+<img src="https://img.shields.io/badge/GitHub-Docker_Secret_Operator-blue?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://dso.skycloudops.in">
+<img src="https://img.shields.io/badge/Website-DSO-success?style=for-the-badge">
+</a>
+</p>
+
+### Features
 
 - 🔐 Runtime secret injection
 - 🔄 Secret rotation
 - ☁️ Multi-provider support
-- 🛡️ Zero-trust architecture
 - ⚡ Zero-downtime updates
-- 🐳 Native Docker CLI experience
-
-### 🌐 Links
-
-- Website: https://dso.skycloudops.in/
-- Repository: https://github.com/docker-secret-operator/dso
+- 🛡️ Zero-trust architecture
+- 🐳 Native Docker experience
 
 ---
 
-# 🌍 Open Source
-
-- 🚀 Creator and maintainer of Docker Secret Operator (DSO)
-- ☸️ CNCF ecosystem enthusiast
-- 🐳 Passionate about Docker and Kubernetes
-- 🌱 Interested in Platform Engineering and Security
-- 🤝 Always open to collaborating on interesting projects
-
----
-
-# 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux,jenkins,githubactions,prometheus,grafana,go,python&perline=6" />
+<img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,aws,azure,terraform,linux,jenkins,githubactions,prometheus,grafana,git&perline=7" />
 </p>
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 - 🔐 Docker Secret Operator (DSO)
 - ☸️ Kubernetes Security
@@ -88,50 +76,54 @@ A Docker-native secret management platform for secure runtime secret injection.
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umairmd385&show_icons=true&theme=radical" />
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=umairmd385&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmd385&theme=radical" />
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairmd385&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairmd385&layout=compact&theme=radical" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umairmd385&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umairmd385&theme=radical&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=umairmd385&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umairmd385&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umairmd385&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/mdumair250801">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:md.umair7335@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://github.com/umairmd385">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -139,6 +131,6 @@ A Docker-native secret management platform for secure runtime secret injection.
 ---
 
 <p align="center">
-🚀 Building real-world cloud-native tools, not just tutorials.
+<i>Building real-world cloud-native tools, not just tutorials 🚀</i>
 </p>
 ```
