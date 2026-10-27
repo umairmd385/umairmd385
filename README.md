@@ -37,10 +37,10 @@ A Docker-native secret management platform for secure runtime secret injection.
   <a href="https://github.com/docker-secret-operator/dso">
     <img src="https://img.shields.io/badge/GitHub-Docker_Secret_Operator-blue?style=for-the-badge&logo=github" alt="GitHub - Docker Secret Operator" />
   </a>
-  <a href="https://dso.skycloudops.in">
+  <a href="https://dso.corecloudops.com">
     <img src="https://img.shields.io/badge/Website-DSO-success?style=for-the-badge" alt="Website - DSO" />
   </a>
-  <a href="https://dso.skycloudops.in/docs">
+  <a href="https://dso.corecloudops.com/docs">
     <img src="https://img.shields.io/badge/Docs-Documentation-informational?style=for-the-badge" alt="Documentation" />
   </a>
 </p>
